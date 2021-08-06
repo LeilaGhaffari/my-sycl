@@ -11,4 +11,6 @@ This repository contains my exploration of SYCL or Data Parallel C++ (DPC++).
 - https://www.khronos.org/registry/SYCL/
 - https://www.khronos.org/sycl/
 - https://developer.codeplay.com/products/computecpp/ce/guides/getting-started
+- https://www.khronos.org/registry/SYCL/specs/sycl-2020/html/sycl-2020.html
+- https://devcloud.intel.com/oneapi/get_started/hpcTrainingModules/
 
